@@ -1,0 +1,5 @@
+{
+    "current" : "media/PDFsUploaded/current" ,
+    "past"   : "media/PDFsUploaded/past" ,
+     "temp_created" : "media/PDFsUploaded/past/temp_files"
+}
